@@ -1,0 +1,54 @@
+{
+  "dimensions": [
+    {
+      "id": 0,
+      "name": "topic0",
+      "description": "information,time,need,such,problem,well,people,service,provide,case"
+    },
+    {
+      "id": 1,
+      "name": "topic1",
+      "description": "cancer,breast,night,risk,sleep,health,exposure,woman,melatonin,level"
+    },
+    {
+      "id": 2,
+      "name": "topic2",
+      "description": "lighting,lamp,road,street,energy,crime,impact,increase,effect,luminaire"
+    },
+    {
+      "id": 3,
+      "name": "topic3",
+      "description": "sky,night,brightness,star,measurement,value,model,pollution,spectral,time"
+    },
+    {
+      "id": 4,
+      "name": "topic4",
+      "description": "bat,species,insect,moth,nocturnal,moon,activity,bird,night,trap"
+    },
+    {
+      "id": 5,
+      "name": "topic5",
+      "description": "urban,value,nighttime,remote,dmsp,dnb,city,pixel,model,sens"
+    },
+    {
+      "id": 6,
+      "name": "topic6",
+      "description": "plant,energy,power,engineering,rate,value,control,surface,water,increase"
+    },
+    {
+      "id": 7,
+      "name": "topic7",
+      "description": "disorientation,model,higher,different,difference,effect,day,comparison,environmental,value"
+    },
+    {
+      "id": 8,
+      "name": "topic8",
+      "description": "circadian,melatonin,sleep,rhythm,clock,time,exposure,effect,human,mouse"
+    },
+    {
+      "id": 9,
+      "name": "topic9",
+      "description": "artificial,night,effect,pollution,species,bird,lighting,time,urban,day"
+    }
+  ]
+}
